@@ -1,0 +1,22 @@
+.page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.page-text {
+  align-self: center;
+  padding-top: 12rem;
+}
+.page-text1 {
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+}
+.page-text2 {
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+}
+.page-text3 {
+  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
+}
